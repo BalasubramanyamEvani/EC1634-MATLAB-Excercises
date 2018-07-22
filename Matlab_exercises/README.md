@@ -1,7 +1,3 @@
-convolution_correlation.m contains example showing the same with input as two discrete sequences.
-
-signals.m -> Graphical view of Basic signals
-
 The dir FIR FILTERS contains code for 
 
 1) Band Pass Filter
@@ -25,6 +21,10 @@ The dir Sampling contains example showing sampling of a sinusoid signal.
 
 ![alt text](screenshots/sampling.jpg "Sampling. Nyquist Theorem")
 
-DFT_IDFT dir contains code example codes performing DFT and IDFT.
+*DFT_IDFT dir contains code example codes performing DFT and IDFT.
 
-Circular Convolution dir contains code examples of Circular Convolution using built-in function (CCON_1.m), using DFT_IDFT method (CCON_3.m) and another showing the same without using built in function (CCON_3.m).
+*Circular Convolution dir contains code examples of Circular Convolution using built-in function (CCON_1.m), using DFT_IDFT method (CCON_3.m) and another showing the same without using built in function (CCON_3.m).
+
+*convolution_correlation.m contains example showing the same with input as two discrete sequences.
+
+*signals.m -> Graphical view of Basic signals
